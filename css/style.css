@@ -1,0 +1,53 @@
+.birinci {
+    
+    background-color: red;
+    width: 300px;
+    height: 300px;
+
+
+}
+
+.ikinci {
+
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.ucuncu {
+
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.redd {
+    color: white;
+    background-color: red;
+}
+
+.sari {
+    background-color: green;
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+
+.goy {
+    color: blue;
+    background-color: orange;
+    font-weight: 900;
+}
+
+
+.ilham {
+    border-radius: 40%;
+    width: 200px;
+}
+.ilham2 {
+    border-radius: 50%;
+    width: 200px;
+}
+.ilham3 {
+    border-radius: 30%;
+    width: 200px;
+}
